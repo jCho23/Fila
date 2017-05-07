@@ -26,7 +26,7 @@ namespace Fila
 				return ConfigureApp
 					.Android
 					// TODO: Update this path to point to your Android app and uncomment the
-					// code if the app is not included in the solution.
+					// code if the app is not included in ssathe solution.
 					.ApkFile("/Users/junecho/Desktop/apkS/Fila.apk")
 					.StartApp();
 			}
