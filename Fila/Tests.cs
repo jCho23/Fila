@@ -34,7 +34,8 @@ namespace Fila
 		[Test]
 		public void FirstTest()
 		{
-			
+			app.Tap("home");
+
 		}
 
 
