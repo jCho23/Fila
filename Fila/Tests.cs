@@ -36,6 +36,12 @@ namespace Fila
 		{
 			app.Tap("home");
 
+			app.Tap("Setting");
+			app.Tap("alarm1_switch");
+			app.Tap("alarm3_switch");
+
+
+
 		}
 
 
