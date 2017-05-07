@@ -39,7 +39,7 @@ namespace Fila
 			app.Tap("Setting");
 			app.Tap("alarm1_switch");
 			app.Tap("alarm3_switch");
-
+			app.Screenshot("Then we Tapped the 3rd alarm Toggle Switch");
 
 
 		}
