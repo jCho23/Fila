@@ -1,0 +1,7 @@
+/Users/junecho/Projects/Fila/Fila/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/junecho/Projects/Fila/Fila/bin/Debug/Fila.dll.mdb
+/Users/junecho/Projects/Fila/Fila/bin/Debug/Fila.dll
+/Users/junecho/Projects/Fila/Fila/obj/Debug/Fila.dll
+/Users/junecho/Projects/Fila/Fila/obj/Debug/Fila.dll.mdb
+/Users/junecho/Projects/Fila/Fila/bin/Debug/nunit.framework.dll
+/Users/junecho/Projects/Fila/Fila/bin/Debug/Xamarin.UITest.dll
