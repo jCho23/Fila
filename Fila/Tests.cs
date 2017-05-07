@@ -4,6 +4,7 @@ using System.Linq;
 using NUnit.Framework;
 using Xamarin.UITest;
 using Xamarin.UITest.Queries;
+using System.Threading;
 
 namespace Fila
 {
@@ -35,6 +36,7 @@ namespace Fila
 		[Test]
 		public void FirstTest()
 		{
+			Thread.Sleep(7000);
 			app.Tap("button2");
 			app.Tap("home");
 
